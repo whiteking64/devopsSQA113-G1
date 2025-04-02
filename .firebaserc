@@ -1,0 +1,8 @@
+{
+  "projects": {
+    "default": "devops-sqa113-testing",
+    "devops-sqa113-testing": "devops-sqa113-testing",
+    "devops-sqa113-staging": "devops-sqa113-staging",
+    "devops-sqa113-production": "devops-sqa113-production"
+  }
+}
